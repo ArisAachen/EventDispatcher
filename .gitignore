@@ -1,0 +1,5 @@
+*.config
+*.suo
+*.db
+*.ipch
+EventDispatcher/.vs/EventDispatcher/config/applicationhost.config

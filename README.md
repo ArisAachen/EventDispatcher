@@ -1,2 +1,4 @@
 # EventDispatcher
-C++11  事件监听观察者
+
+实现类似cocos2d-lua EventDispatcher
+用于监听事件  可用于界面切换
